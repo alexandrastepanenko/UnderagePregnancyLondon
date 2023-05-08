@@ -4,15 +4,13 @@
 
 This project uses data visualisation to explore how poverty and educational attainment was related to underage conception rates in London between 1998 and 2019, using data aggregated at borough level. Visualisations demonstrate a substantial reduction in underage conceptions over this time, with rates of teenage pregnancy in 2019 being less than a quarter of what they were in 1998. A positive correlation is shown between rates of child poverty and teenage pregnancies in boroughs. Conversely, there is a negative correlation between teenage pregnancy and educational achievement at GCSE.  
 
-Data is compiled from different sources, with discussion about data suitability and quality. Research questions are defined. The data is processed and reformatted for consistency, and to allow datasets from different sources to be combined. 
+Data is compiled from different sources, with discussion about data suitability and quality. Research questions are defined. The data is processed and reformatted for consistency, and to allow datasets from different sources to be combined. The research questions are explored through a variety of graphs and visualisations, including interactive maps. Discussion is included about the choice of different plots, and how they were optimised to allow for the quick and efficient absorption of information. Finally, use cases and limitations of the analysis are discussed. 
 
-The research questions are explored through a variety of graphs and visualisations, including interactive maps. Discussion is included about the choice of different plots, and how they were optimised to allow for the quick and efficient absorption of information. Finally, use cases and limitations of the analysis are discussed. 
-
-This project was completed as part of an MSc in Data Science at Goldsmiths, University of London. Below are GIFs of the interactive virtualisations, and images of static visualisations. Please see Jupyter notebook for code and a full written report.
+This project was completed as part of an MSc in Data Science at Goldsmiths, University of London. Below are GIFs of the interactive visualisations, and images of static visualisations. Please see Jupyter notebook for code and a full written report.
 &ensp;
 
 ## Interactive visualisations 
-These choropleth maps are interactive in Jupyter notebook - presented here as gifs.
+These choropleth maps are interactive in Jupyter notebook - presented here as GIFs.
 * Contains National Statistics data © Crown copyright and database right 2012
 * Contains Ordnance Survey data © Crown copyright and database right 2012
 
