@@ -8,6 +8,8 @@
 
 ## Interactive visualisations 
 These choropleth maps are interactive in Jupyter notebook - presented here as gifs.
+* Contains National Statistics data © Crown copyright and database right 2012
+* Contains Ordnance Survey data © Crown copyright and database right 2012
 
 The visualisation below cycles through the years 1998-2019, with the option for the user to pause and resume the animation:
 ![gif1_cyclicalmap_point75fps](https://user-images.githubusercontent.com/85199586/231857429-a59c8f17-efa8-4365-9a15-b361a0286c71.gif)
